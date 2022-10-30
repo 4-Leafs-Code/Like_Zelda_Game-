@@ -1,6 +1,8 @@
 # Like_Zelda_Game-
 this is a Zelda like game written in python using pygame
 
+![] (https://github.com/4-Leafs-Code/Like_Zelda_Game-/blob/main/zelda.gif)
+
 Steps to Run Game:
 1. Install a IED like pycharm and a version of python 3 
 2. Download this repository
