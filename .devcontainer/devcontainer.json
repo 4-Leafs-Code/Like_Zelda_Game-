@@ -9,8 +9,7 @@
 		"ms-python.python",
 		"cstrap.flask-snippets",
 		"streetsidesoftware.code-spell-checker"
-		],
-	"postCreateCommand": "pip3 install --user -r requirements.txt"
+		]
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
